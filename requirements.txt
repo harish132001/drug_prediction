@@ -1,0 +1,8 @@
+pandas
+numpy
+tensorflow~=2.11.0
+Flask
+keras
+sklearn
+scikit-learn
+gunicorn
